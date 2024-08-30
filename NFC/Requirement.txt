@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+pandas
+numpy
+geopandas
+matplotlib
+seaborn
+shapely
+scikit-learn
+xgboost
+lightgbm
